@@ -1,7 +1,15 @@
 {
   "posts": [
-    { "id": 1, "title": "Hello World", "body": "This is my first custom post." },
-    { "id": 2, "title": "My Second Post", "body": "This is another post from me." }
+    { "id": 1, "title": "Post-1", "body": "This is my first custom post." },
+    { "id": 2, "title": "Post-2", "body": "This is my second custom post." },
+    { "id": 3, "title": "Post-3", "body": "This is my third custom post." },
+    { "id": 4, "title": "Post-4", "body": "This is my forth custom post." },
+    { "id": 5, "title": "Post-5", "body": "This is my fivth custom post." },
+    { "id": 6, "title": "Post-6", "body": ""This is my sixth custom post." },
+    { "id": 7, "title": "Post-7", "body": "This is my seventh custom post." },
+    { "id": 8, "title": "Post-8", "body": "This is my eighth custom post." },
+    { "id": 9, "title": "Post-9", "body": "This is my ninth custom post." },
+    { "id": 10, "title": "Post-10", "body": "This is my tenth custom post." },
   ],
   "profile": {
     "name": "Bhatti",
