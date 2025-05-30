@@ -1,16 +1,18 @@
 {
-  "posts": [
-     {
+  "about": [
+    {
       "id": 1,
-      "title": "Post-1",
-      "body": "This is my first custom post.",
-      "image": "https://www.google.com/imgres?q=pic&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1704488%2Fpexels-photo-1704488.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-sulimansallehi-1704488.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fprofile%2520picture%2F&docid=FvQHUVZ-cx81xM&tbnid=N76oitJOBmNKGM&vet=12ahUKEwjJnPe88cqNAxWRklYBHe_-CVIQM3oECE0QAA..i&w=3024&h=4000&hcb=2&ved=2ahUKEwjJnPe88cqNAxWRklYBHe_-CVIQM3oECE0QAA",
-      "author": "Bhatti",
-      "date": "2025-05-30"
+      "title": "Welcome to Our Company",
+      "description": "We build innovative solutions to empower communities.",
+      "image": "https://via.placeholder.com/300",
+      "updatedAt": "2025-05-30"
+    },
+    {
+      "id": 2,
+      "title": "Our Mission",
+      "description": "To simplify lives through technology and creativity.",
+      "image": "https://via.placeholder.com/300",
+      "updatedAt": "2025-05-29"
     }
-  ],
-  "profile": {
-    "name": "Bhatti",
-    "bio": "This is a demo profile using my-json-server"
-  }
+  ]
 }
