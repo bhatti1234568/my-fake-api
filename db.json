@@ -1,18 +1,28 @@
 {
   "posts": [
-    { "id": 1, "title": "Post-1", "body": "This is my first custom post." },
-    { "id": 2, "title": "Post-2", "body": "This is my second custom post." },
-    { "id": 3, "title": "Post-3", "body": "This is my third custom post." },
-    { "id": 4, "title": "Post-4", "body": "This is my forth custom post." },
-    { "id": 5, "title": "Post-5", "body": "This is my fivth custom post." },
-    { "id": 6, "title": "Post-6", "body": "This is my sixth custom post." },
-    { "id": 7, "title": "Post-7", "body": "This is my seventh custom post." },
-    { "id": 8, "title": "Post-8", "body": "This is my eighth custom post." },
-    { "id": 9, "title": "Post-9", "body": "This is my ninth custom post." },
-    { "id": 10, "title": "Post-10", "body": "This is my tenth custom post." }
-  ],
-  "profile": {
-    "name": "Bhatti",
-    "bio": "This is a demo profile using my-json-server"
-  }
+    {
+      "id": 1,
+      "title": "How to Learn React",
+      "body": "React is a powerful JavaScript library for building user interfaces...",
+      "image": "https://via.placeholder.com/600x300.png?text=React+Post+1",
+      "author": "John Doe",
+      "date": "2024-05-30"
+    },
+    {
+      "id": 2,
+      "title": "Understanding JavaScript Closures",
+      "body": "Closures are one of the most important concepts in JavaScript...",
+      "image": "https://via.placeholder.com/600x300.png?text=JS+Closures",
+      "author": "Jane Smith",
+      "date": "2024-05-28"
+    },
+    {
+      "id": 3,
+      "title": "CSS Grid vs Flexbox",
+      "body": "Learn the differences between CSS Grid and Flexbox layout systems...",
+      "image": "https://via.placeholder.com/600x300.png?text=CSS+Grid+vs+Flexbox",
+      "author": "Alice Johnson",
+      "date": "2024-05-27"
+    }
+  ]
 }
