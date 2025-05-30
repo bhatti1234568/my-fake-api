@@ -1,36 +1,12 @@
 {
   "posts": [
-    {
+     {
       "id": 1,
       "title": "Post-1",
       "body": "This is my first custom post.",
       "image": "https://via.placeholder.com/600x300.png?text=Post+1",
       "author": "Bhatti",
       "date": "2025-05-30"
-    },
-    {
-      "id": 2,
-      "title": "Post-2",
-      "body": "This is my second custom post.",
-      "image": "https://via.placeholder.com/600x300.png?text=Post+2",
-      "author": "Bhatti",
-      "date": "2025-05-29"
-    },
-    {
-      "id": 3,
-      "title": "Post-3",
-      "body": "This is my third custom post.",
-      "image": "https://via.placeholder.com/600x300.png?text=Post+3",
-      "author": "Bhatti",
-      "date": "2025-05-28"
-    },
-    {
-      "id": 4,
-      "title": "Post-4",
-      "body": "This is my forth custom post.",
-      "image": "https://via.placeholder.com/600x300.png?text=Post+4",
-      "author": "Bhatti",
-      "date": "2025-05-27"
     }
   ],
   "profile": {
