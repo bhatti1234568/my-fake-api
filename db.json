@@ -4,7 +4,7 @@
       "id": 1,
       "title": "How to Learn React",
       "body": "React is a powerful JavaScript library for building user interfaces...",
-      "image": "https://via.placeholder.com/600x300.png?text=React+Post+1",
+      "image": "https://www.google.com/imgres?q=profile%20pic%20boy&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fcf%2F2b%2F1d%2Fcf2b1dd0624dd5e24fe0a10590f9eccd.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fzahidzaymond%2Fboys-dpz%2F&docid=AxHS91M5UIzTUM&tbnid=vUDYKLZZHGXOVM&vet=12ahUKEwiuzqyQ7sqNAxXQg1YBHXK0NoQQM3oECBgQAA..i&w=720&h=720&hcb=2&ved=2ahUKEwiuzqyQ7sqNAxXQg1YBHXK0NoQQM3oECBgQAA",
       "author": "John Doe",
       "date": "2024-05-30"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Understanding JavaScript Closures",
       "body": "Closures are one of the most important concepts in JavaScript...",
-      "image": "https://via.placeholder.com/600x300.png?text=JS+Closures",
+      "image": "https://www.google.com/imgres?q=profile%20pic%20boy&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100076347083257&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D293048499916717%26set%3Da.169493362272232%26type%3D3&docid=QsRNnqlTG-y85M&tbnid=xq9Igv0xTmE8fM&vet=12ahUKEwiuzqyQ7sqNAxXQg1YBHXK0NoQQM3oECGAQAA..i&w=720&h=1073&hcb=2&ved=2ahUKEwiuzqyQ7sqNAxXQg1YBHXK0NoQQM3oECGAQAA",
       "author": "Jane Smith",
       "date": "2024-05-28"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "CSS Grid vs Flexbox",
       "body": "Learn the differences between CSS Grid and Flexbox layout systems...",
-      "image": "https://via.placeholder.com/600x300.png?text=CSS+Grid+vs+Flexbox",
+      "image": "https://www.google.com/imgres?q=profile%20pic%20boy&imgurl=https%3A%2F%2Flive.staticflickr.com%2F3893%2F14921394066_cb305327fe_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2F124424523%40N08%2F14921394066&docid=R5T9FFY2Fy_6mM&tbnid=19pT7a1s2P7wpM&vet=12ahUKEwiuzqyQ7sqNAxXQg1YBHXK0NoQQM3oECHMQAA..i&w=663&h=1024&hcb=2&ved=2ahUKEwiuzqyQ7sqNAxXQg1YBHXK0NoQQM3oECHMQAA",
       "author": "Alice Johnson",
       "date": "2024-05-27"
     }
